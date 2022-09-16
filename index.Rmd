@@ -1,0 +1,18 @@
+---
+title: "My GitHub great Website"
+description: |
+  Welcome to my great website. I hope you enjoy it! If not, bad luck :)
+site: distill::distill_website
+---
+I like creating websites :)))))
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+

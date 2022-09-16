@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-09-16T10:31:46+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "My GitHub great Website",
+      "description": "Welcome to my great website. I hope you enjoy it! If not, bad luck :)\n",
+      "author": [],
+      "contents": "\nI like creating websites :)))))\n\n\n\n",
+      "last_modified": "2022-09-16T10:31:47+02:00"
+    }
+  ],
+  "collections": []
+}
